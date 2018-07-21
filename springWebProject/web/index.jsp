@@ -7,6 +7,7 @@
 <title>Index</title>
 </head>
 <body>
+	<p>수정</p>
 	<a href="/swp/memberList.do">맴버 리스트</a>
 </body>
 </html>
